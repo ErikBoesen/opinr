@@ -1,0 +1,11 @@
+[{
+    "id": 0,
+    "slug": "marijuana-legalization",
+    "title": "Marijuana Legalization",
+    "articles": [
+        {"source": "The National Review", "lean": 5.6, "url": "http://www.nationalreview.com/article/367618/sensible-weed-editors"},
+        {"source": "The Economist", "lean": 7.5, "url": "https://www.economist.com/news/international/21692966-ending-war-weed"},
+        {"source": "The New York Times", "lean": -1.2, "url": "https://www.nytimes.com/interactive/2014/07/27/opinion/sunday/high-time-marijuana-legalization.html"},
+        {"source": "Think Progress", "lean": -6.9, "url": "https://thinkprogress.org/5-states-weighing-marijuana-legalization-would-reap-enormous-economic-benefits-study-suggests-cb06831d154b"}
+    ]
+}]

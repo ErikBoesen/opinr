@@ -1,8 +1,9 @@
 {% extends "base.html" %}
 {% block content %}
 <ul>
-	{% for issue in issues %}
-	<li>{{ issue }}</li>
-	{% endfor %}
+	{{ issues }}
+    {% for issue in issues %}
+    <li>{{ issue.title }}</li>
+    {% endfor %}
 </ul>
 {% endblock %}

@@ -1,11 +1,16 @@
 from flask import render_template
 from app import app
+import json
+
 
 @app.route('/')
 def index():
-	issues = ['Marijuana Legalization', 'Prison Reform']
-	return render_template('index.html')
+    with open('app/data/issues.json', 'r') as f:
+        issues = json.load(f)
+    return render_template('index.html', issues=issues)
 
-@app.route('/view/<id>/')
-def view(id):
-	return render_template('view.html')
+
+@app.route('/issue/<id>/')
+def issue(id):
+
+    return render_template('issue.html')

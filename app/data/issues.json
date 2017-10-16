@@ -6,6 +6,24 @@
         {"source": "The National Review", "lean": 5.6, "url": "http://www.nationalreview.com/article/367618/sensible-weed-editors"},
         {"source": "The Economist", "lean": 7.5, "url": "https://www.economist.com/news/international/21692966-ending-war-weed"},
         {"source": "The New York Times", "lean": -1.2, "url": "https://www.nytimes.com/interactive/2014/07/27/opinion/sunday/high-time-marijuana-legalization.html"},
-        {"source": "Think Progress", "lean": -6.9, "url": "https://thinkprogress.org/5-states-weighing-marijuana-legalization-would-reap-enormous-economic-benefits-study-suggests-cb06831d154b"}
+        {"source": "Think Progress", "lean": -6.9, "url": "https://thinkprogress.org/5-states-weighing-marijuana-legalization-would-reap-enormous-economic-benefits-study-suggests-cb06831d154b"},
+        {"source": "HuffPost", "lean": -7.1, "url": "https://www.huffingtonpost.com/entry/4-reasons-why-the-us-needs-to-decriminalize-drugs-and-why-were-closer-than-you-think_us_5963e1bde4b005b0fdc7926e?utm_hp_ref=marijuana"},
+        {"source": "The Washington Post", "lean": -1.3, "url": "https://www.washingtonpost.com/opinions/my-fellow-conservatives-should-protect-medical-marijuana-from-the-government/2017/09/05/73b60b0a-91aa-11e7-8754-d478688d23b4_story.html"},
+        {"source": "CNN", "lean": -3.0, "url": "http://money.cnn.com/2017/10/07/news/marijuana-california-massachusetts-maine/index.html"},
+        {"source": "The Blaze", "lean": 8.0, "url": "http://www.theblaze.com/contributions/yo-pot-smoking-hippie-dudes-your-habit-causes-gun-violence/"}
+    ]
+},
+{
+    "id": 1,
+    "slug": "health-care",
+    "title": "Health Care",
+    "articles": [
+        {"source": "The National Review", "lean": 5.6, "url": "http://www.nationalreview.com/article/452674/trumps-obamacare-order-faithfully-executes-law"},
+        {"source": "Buzzfeed", "lean": -7.0, "url": "http://www.nationalreview.com/article/452674/trumps-obamacare-order-faithfully-executes-law"},
+        {"source": "Slate", "lean": -6.5, "url": "http://www.slate.com/articles/news_and_politics/jurisprudence/2017/10/trump_s_plan_to_kill_obamacare_is_likely_to_fail_in_the_courts.html"},
+        {"source": "Politico", "lean": -5.3, "url": "http://www.politico.com/story/2017/09/21/obamacare-repeal-division-earlier-bills-242997"},
+        {"source": "Wall Street Journal", "lean": 4.4, "url": "https://www.wsj.com/articles/accountability-for-obamacare-1477435661"},
+        {"source": "Business Insider", "lean": -0.3, "url": "http://www.businessinsider.com/obamacare-exchanges-virginia-empty-optima-2017-9"},
+        {"source": "CBS News", "lean": -1.2, "url": "https://www.cbsnews.com/news/obamacare-affordable-care-act-many-americans-worried-about-losing-health-insurance/"}
     ]
 }]

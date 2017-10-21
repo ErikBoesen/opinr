@@ -1,9 +1,10 @@
 {% extends "base.html" %}
 {% block content %}
-<ul>
-	{{ issues }}
+<ul class="issues">
     {% for issue in issues %}
-    <li>{{ issue.title }}</li>
+    <li><h4>{{ issue.title }}</h4>
+	{% include "graph.html" %}
+    </li>
     {% endfor %}
 </ul>
 {% endblock %}

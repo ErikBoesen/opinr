@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.issues li {
+}
+
+header, footer {
+    padding: 30px;
+    background: #eee;
+    color: #333;
+}
+header {
+
+}
+main {
+    padding: 30px;
+}
+footer {
+    text-align: center;
+}
+
+ul.issues {
+    list-style-type: none;
+}
+ul.issues li {
+
+}
+ul.issues li h4 {
+    font-size: 20px;
+}
+.plot {
+    display: block;
+    height: 30px;
+    width: 800px;
+    stroke: black;
+}
+.plot ellipse {
+    stroke: none;
+}

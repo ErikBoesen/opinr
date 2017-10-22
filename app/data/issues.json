@@ -26,4 +26,22 @@
         {"source": "Business Insider", "lean": -0.3, "url": "http://www.businessinsider.com/obamacare-exchanges-virginia-empty-optima-2017-9"},
         {"source": "CBS News", "lean": -1.2, "url": "https://www.cbsnews.com/news/obamacare-affordable-care-act-many-americans-worried-about-losing-health-insurance/"}
     ]
+},
+{
+    "id": 2,
+    "slug": "sanctuary-cities",
+    "title": "Sanctuary Cities",
+    "articles": [
+        {"source": "The National Review", "lean": 5.6, "url": "http://www.nationalreview.com/article/446214/jeff-sessions-doj-sanctuary-cities-grant-policy-lawful"},
+        {"source": "Washington Times", "lean": 6.6, "url": "http://www.washingtontimes.com/news/2017/aug/9/sanctuary-cities-run-afoul-of-the-rule-of-law/"},
+        {"source": "The Daily Wire", "lean": 8.9, "url": "http://www.dailywire.com/news/10816/5-things-you-need-know-about-sanctuary-cities-aaron-bandler"},
+        {"source": "The Atlantic", "lean": -3.0, "url": "https://www.theatlantic.com/politics/archive/2017/01/trumps-sloppy-unconstitutional-order-on-sanctuary-cities/514883/"},
+        {"source": "MSNBC", "lean": -2.5, "url": "http://www.msnbc.com/specials/migrant-crisis/sanctuary-cities"},
+        {"source": "Fox News", "lean": 3.1, "url": "http://video.foxnews.com/v/5379767013001"},
+        {"source": "New York Post", "lean": 4.5, "url": "http://nypost.com/2017/10/18/sessions-hearing-over-sanctuary-cities-heats-up/"},
+        {"source": "The Nation", "lean": -4.4, "url": "https://www.thenation.com/article/despite-sanctuary-city-status-chicago-police-feed-trumps-deportation-machine/"},
+        {"source": "VICE", "lean": -5.2, "url": "https://news.vice.com/story/cities-arent-keeping-their-pledges-of-sanctuary-for-undocumented-migrants"},
+        {"source": "San Antonio Express News", "lean": -0.3, "url": "http://www.mysanantonio.com/opinion/commentary/article/The-Hollywood-like-sanctuary-city-illusion-12294696.php"},
+        {"source": "Breitbart", "lean": 9.6, "url": "http://www.breitbart.com/texas/2017/10/14/sanctuary-cities-allowed-criminal-alien-remain-u-s-murder-kansas-deputy/"}
+    ]
 }]

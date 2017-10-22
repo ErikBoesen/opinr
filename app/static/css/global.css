@@ -3,6 +3,13 @@
     margin: 0;
     padding: 0;
 }
+body {
+    font: 16px 'Open Sans';
+
+}
+h1, h2, h3, h4 {
+    font-family: 'Adam';
+}
 
 .issues li {
 }
@@ -35,7 +42,7 @@ ul.issues li h4 {
     display: block;
     height: 30px;
     width: 800px;
-    stroke: black;
+    stroke: #333;
 }
 .plot ellipse {
     stroke: none;

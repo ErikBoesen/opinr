@@ -8,9 +8,3 @@ def index():
     with open('app/data/issues.json', 'r') as f:
         issues = json.load(f)
     return render_template('index.html', issues=issues)
-
-
-@app.route('/issue/<id>/')
-def issue(id):
-
-    return render_template('issue.html')

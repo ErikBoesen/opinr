@@ -4,10 +4,10 @@
     "title": "Marijuana Legalization",
     "articles": [
         {"source": "The National Review", "lean": 5.6, "url": "http://www.nationalreview.com/article/367618/sensible-weed-editors"},
-        {"source": "The Economist", "lean": 7.5, "url": "https://www.economist.com/news/international/21692966-ending-war-weed"},
+        {"source": "The Economist", "lean": 1.5, "url": "https://www.economist.com/news/international/21692966-ending-war-weed"},
         {"source": "The New York Times", "lean": -1.2, "url": "https://www.nytimes.com/interactive/2014/07/27/opinion/sunday/high-time-marijuana-legalization.html"},
         {"source": "Think Progress", "lean": -6.9, "url": "https://thinkprogress.org/5-states-weighing-marijuana-legalization-would-reap-enormous-economic-benefits-study-suggests-cb06831d154b"},
-        {"source": "HuffPost", "lean": -7.1, "url": "https://www.huffingtonpost.com/entry/4-reasons-why-the-us-needs-to-decriminalize-drugs-and-why-were-closer-than-you-think_us_5963e1bde4b005b0fdc7926e?utm_hp_ref=marijuana"},
+        {"source": "HuffPost", "lean": -8.0, "url": "https://www.huffingtonpost.com/entry/4-reasons-why-the-us-needs-to-decriminalize-drugs-and-why-were-closer-than-you-think_us_5963e1bde4b005b0fdc7926e?utm_hp_ref=marijuana"},
         {"source": "The Washington Post", "lean": -1.3, "url": "https://www.washingtonpost.com/opinions/my-fellow-conservatives-should-protect-medical-marijuana-from-the-government/2017/09/05/73b60b0a-91aa-11e7-8754-d478688d23b4_story.html"},
         {"source": "CNN", "lean": -3.0, "url": "http://money.cnn.com/2017/10/07/news/marijuana-california-massachusetts-maine/index.html"},
         {"source": "The Blaze", "lean": 8.0, "url": "http://www.theblaze.com/contributions/yo-pot-smoking-hippie-dudes-your-habit-causes-gun-violence/"}
@@ -42,6 +42,21 @@
         {"source": "The Nation", "lean": -4.4, "url": "https://www.thenation.com/article/despite-sanctuary-city-status-chicago-police-feed-trumps-deportation-machine/"},
         {"source": "VICE", "lean": -5.2, "url": "https://news.vice.com/story/cities-arent-keeping-their-pledges-of-sanctuary-for-undocumented-migrants"},
         {"source": "San Antonio Express News", "lean": -0.3, "url": "http://www.mysanantonio.com/opinion/commentary/article/The-Hollywood-like-sanctuary-city-illusion-12294696.php"},
-        {"source": "Breitbart", "lean": 9.6, "url": "http://www.breitbart.com/texas/2017/10/14/sanctuary-cities-allowed-criminal-alien-remain-u-s-murder-kansas-deputy/"}
+        {"source": "Breitbart", "lean": 9.6, "url": "http://www.breitbart.com/texas/2017/10/14/sanctuary-cities-allowed-criminal-alien-remain-u-s-murder-kansas-deputy/"},
+        {"source": "The Blaze", "lean": 8.0, "url": "http://www.theblaze.com/podcasts/listen-the-decision-to-declare-california-a-sanctuary-state-is-a-nefarious-one/"}
+    ]
+},
+{
+    "id": 3,
+    "slug": "tax-reform",
+    "title": "Tax Reform",
+    "articles": [
+        {"source": "RealClearPolitics", "lean": 1.2, "url": "https://www.realclearpolitics.com/articles/2017/10/20/senate_passes_budget_unlocking_vehicle_for_tax_reform_135318.html"},
+        {"source": "Washington Examiner", "lean": -1.1, "url": "http://www.washingtonexaminer.com/senate-paves-the-way-for-tax-reform-by-passing-a-budget/article/2638119"},
+        {"source": "The National Review", "lean": 5.6, "url": "http://www.nationalreview.com/article/452966/republican-congress-fiscal-reform-tax-cuts-spending-cuts-bipartisan-democrats"},
+        {"source": "CATO Institute", "lean": 4.7, "url": "https://www.cato.org/blog/spending-cuts-president-trumps-2018-budget"},
+        {"source": "Salon", "lean": -7.1, "url": "https://www.salon.com/2017/10/16/be-skeptical-of-trumps-claim-that-americans-will-take-home-4000-from-his-tax-cut/"},
+        {"source": "HuffPost", "lean": -8.0, "url": "https://www.huffingtonpost.com/entry/eitc-tax-reform_us_59dfcfafe4b0a52aca16a28d"},
+        {"source": "The Economist", "lean": 1.5, "url": "https://www.economist.com/news/leaders/21721378-administrations-tax-plan-does-not-match-its-laudable-rhetoric-assessing-donald-trumps-plans"}
     ]
 }]

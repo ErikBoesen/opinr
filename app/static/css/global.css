@@ -1,3 +1,15 @@
+@font-face {
+    font-family: 'Adam';
+    src: local('ADAM.CG PRO'), url(/static/font/adam.woff2) format('woff2'), url(/static/font/adam.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 300;
+    src: local('Roboto Light'), local('Roboto-Light');
+    src: url(/static/font/roboto.woff2) format('woff2');
+}
+
 * {
     box-sizing: border-box;
     margin: 0;
@@ -9,6 +21,7 @@ body {
 }
 h1, h2, h3, h4 {
     font-family: 'Adam';
+    color: #333;
 }
 
 .issues li {
@@ -21,6 +34,9 @@ header, footer {
 }
 header {
 
+}
+h1 {
+    font-size: 70px;
 }
 main {
     padding: 30px;

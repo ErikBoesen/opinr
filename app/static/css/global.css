@@ -16,7 +16,7 @@
     padding: 0;
 }
 body {
-    font: 16px 'Open Sans';
+    font: 16px 'Roboto';
 }
 h1, h2, h3, h4 {
     font-family: 'Adam';
@@ -40,7 +40,8 @@ footer {
 
 ul.issues {
     list-style-type: none;
-    max-width: 8in;
+    max-width: 7in;
+    display: inline-block;
 }
 ul.issues li {
     padding: 30px 0;
@@ -58,5 +59,7 @@ ul.issues li h4 {
     stroke: none;
 }
 #display {
-
+    padding-top: 30px;
+    vertical-align: top;
+    display: inline-block;
 }

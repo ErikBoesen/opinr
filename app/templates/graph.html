@@ -1,9 +1,9 @@
 <svg class="plot">
-    <line x1="0" x2="800" y1="15" y2="15" />
-    <line x1="400" x2="400" y1="0" y2="30" />
+    <line x1="0" x2="600" y1="15" y2="15" />
+    <line x1="300" x2="300" y1="0" y2="30" />
     {% for article in issue.articles %}
-    <a href="#" class="article" data-source="{{ issue.source }}" data-url="{{ article.url }}" data-lean="{{ article.lean }}">
-        <ellipse rx="5" ry="5" cx="{{ (10 + article.lean) * 40 }}" cy="15" style="fill: rgb({{ (12.75 * (article.lean + 10)) | int  }}, 0, {{ (255 - (12.75 * (article.lean + 10))) | int }});" />
-    </a>
+    <g class="article" data-source="{{ article.source }}" data-url="{{ article.url }}" data-lean="{{ article.lean }}">
+        <ellipse rx="5" ry="5" cx="{{ (10 + article.lean) * 30 }}" cy="15" style="fill: rgb({{ (12.75 * (article.lean + 10)) | int  }}, 0, {{ (255 - (12.75 * (article.lean + 10))) | int }});" />
+    </g>
     {% endfor %}
 </svg>

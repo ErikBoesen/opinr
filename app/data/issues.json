@@ -59,4 +59,34 @@
         {"source": "HuffPost", "lean": -8.0, "url": "https://www.huffingtonpost.com/entry/eitc-tax-reform_us_59dfcfafe4b0a52aca16a28d"},
         {"source": "The Economist", "lean": 1.5, "url": "https://www.economist.com/news/leaders/21721378-administrations-tax-plan-does-not-match-its-laudable-rhetoric-assessing-donald-trumps-plans"}
     ]
+},
+{
+    "id": 4,
+    "slug": "abortion",
+    "title": "Abortion",
+    "articles": [
+        {"source": "The National Review", "lean": 5.6, "url": "http://www.nationalreview.com/article/430152/roe-v-wade-abortion-won-day-sooner-or-later-day-will-end"},
+        {"source": "The Blaze", "lean": 8.0, "url": "http://www.theblaze.com/contributions/matt-walsh-if-you-want-to-fight-nazism-in-america-fight-the-abortion-industry/"},
+        {"source": "FiveThirtyEight", "lean": -0.4, "url": "https://fivethirtyeight.com/features/the-gops-20-week-abortion-ban-is-about-politics-not-science/"},
+        {"source": "Slate", "lean": -6.5, "url": "http://www.slate.com/articles/news_and_politics/jurisprudence/2017/10/the_undocumented_minor_abortion_case_is_a_preview_of_our_post_roe_future.html"},
+        {"source": "LastWeekTonight", "lean": -5.8, "url": "https://www.youtube.com/watch?v=DRauXXz6t0Y"},
+        {"source": "Washington Examiner", "lean": 1.1, "url": "http://www.washingtonexaminer.com/to-argue-in-favor-of-abortion-you-have-to-abandon-reason/article/2638340"},
+        {"source": "LA Times", "lean": -1.9, "url": "http://www.latimes.com/opinion/readersreact/la-ol-le-abortion-immigrant-detainee-20171022-story.html"},
+        {"source": "The Intercept", "lean": -3.4, "url": "https://theintercept.com/2017/10/17/kentucky-last-abortion-clinic-emw/"}
+    ]
+},
+{
+    "id": 5,
+    "slug": "gun-regulation",
+    "title": "Gun Regulation",
+    "articles": [
+        {"source": "The National Review", "lean": 5.6, "url": "http://www.nationalreview.com/article/452987/reducing-gun-violence-focus-high-crime-areas-likely-criminals"},
+        {"source": "Think Progress", "lean": -6.9, "url": "https://thinkprogress.org/after-las-vegas-health-experts-say-its-a-no-brainer-we-need-to-renew-gun-research-funding-71ecbad6330f/"},
+        {"source": "The Clarion-Ledger", "lean": -5.5, "url": "http://www.clarionledger.com/story/opinion/columnists/2017/10/22/gun-control-make-noise-and-demand-change/778339001/"},
+        {"source": "The Hill", "lean": -1.0, "url": "http://thehill.com/opinion/civil-rights/356087-gun-control-is-constitutional-just-ask-the-supreme-court"},
+        {"source": "The Spectrum", "lean": -3.2, "url": "http://www.thespectrum.com/story/opinion/2017/10/21/gun-control-now/782615001/"},
+        {"source": "HeraldNet", "lean": -0.4, "url": "https://www.heraldnet.com/opinion/viewpoints-gun-control-and-the-founding-fathers/"},
+        {"source": "Forbes", "lean": 1.4, "url": "https://www.forbes.com/sites/chrisladd/2017/10/06/ten-lies-distort-the-gun-control-debate/#59a15f9c1fad"},
+        {"source": "New York Post", "lean": 4.5, "url": "http://nypost.com/2017/10/05/the-depressing-truth-about-gun-control/"}
+    ]
 }]

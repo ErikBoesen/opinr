@@ -4,6 +4,7 @@ var articles = document.getElementsByClassName('article');
 function display(source, lean, url) {
     disp.innerHTML = '';
     disp.innerHTML += '<h3>' + source + '</h3>';
+    var assessment = '';
     if (Math.abs(lean) > 7) assessment += 'Extremely ';
     else if (Math.abs(lean) > 4) {}
     else assessment += 'Slightly ';
@@ -14,8 +15,8 @@ function display(source, lean, url) {
 }
 
 onclick = function(e) {
-    node = e.target.parentNode;
-    if (node.className == 'article') {
-        display(node['data-source'], node['data-lean'], node['data-url']);
+    var node = e.target.parentNode;
+    if (node.className.baseVal == 'article') {
+        display(node.getAttribute('data-source'), node.getAttribute('data-lean'), node.getAttribute('data-url'));
     }
 }

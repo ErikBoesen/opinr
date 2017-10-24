@@ -12,6 +12,7 @@ function display(source, lean, url) {
     if (lean < 0) assessment += 'Liberal';
     disp.innerHTML += '<p>Lean: ' + lean + ' (' + assessment + ')';
     disp.innerHTML += '<a href="' + url + '">Open Article</a>';
+    disp.innerHTML += '<iframe src="' + url + '">'
 }
 
 onclick = function(e) {

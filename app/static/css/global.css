@@ -63,3 +63,10 @@ ul.issues li h4 {
     vertical-align: top;
     display: inline-block;
 }
+#display iframe {
+    margin-top: 10px;
+    display: block;
+    border: none;
+    width: 5in;
+    height: 6in;
+}

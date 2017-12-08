@@ -2,14 +2,12 @@
     font-family: 'Adam';
     src: local('ADAM.CG PRO'), url(/static/font/adam.woff2) format('woff2'), url(/static/font/adam.woff) format('woff');
 }
-
 @font-face {
     font-family: 'Roboto';
     font-weight: 300;
     src: local('Roboto Light'), local('Roboto-Light');
     src: url(/static/font/roboto.woff2) format('woff2');
 }
-
 * {
     box-sizing: border-box;
     margin: 0;
@@ -18,11 +16,10 @@
 body {
     font: 16px 'Roboto';
 }
-h1, h2, h3, h4 {
+h1, h2, h3, h4, .submit {
     font-family: 'Adam';
     color: #333;
 }
-
 header, footer {
     padding: 30px;
     background: #eee;
@@ -34,10 +31,42 @@ h1 {
 main {
     padding: 30px;
 }
+.buttons {
+    display: block;
+}
+.submit {
+    padding: 10px;
+    border: 2px solid #333;
+    text-decoration: none;
+
+    vertical-align: middle;
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px transparent;
+    position: relative;
+    transition: color 0.3s;
+}
+.submit:before {
+    content: '';
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: #2098D1;
+    transform: scaleY(0);
+    transform-origin: 50% 0;
+    transition: transform 0.3s ease-out;
+}
+.submit:hover, .submit:focus, .submit:active {
+    color: white;
+}
+.submit:hover:before, .submit:focus:before, .submit:active:before {
+    transform: scaleY(1);
+}
 footer {
     text-align: center;
 }
-
 ul.issues {
     list-style-type: none;
     max-width: 7in;

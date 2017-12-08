@@ -1,5 +1,9 @@
 {% extends "base.html" %}
 {% block content %}
+<div class="buttons">
+    <a href="https://goo.gl/forms/TlHJYjteaP5IjZqU2" class="submit">Submit a new issue</a>
+    <a href="https://goo.gl/forms/PBBsYcXSVSLA6Vxf1" class="submit">Submit new media</a>
+</div>
 <ul class="issues">
     {% for issue in issues %}
     <li><h4>{{ issue.title }}</h4>

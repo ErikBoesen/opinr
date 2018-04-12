@@ -28,6 +28,12 @@ header, footer {
 h1 {
     font-size: 70px;
 }
+#qr {
+    height: 110px;
+    float: right;
+
+    image-rendering: pixelated;
+}
 main {
     padding: 30px;
 }

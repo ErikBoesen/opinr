@@ -2,6 +2,7 @@ import random
 import json
 
 issues = [
+    'Net Neutrality',
     'Social Network Regulation',
     'Education Policy',
     'Presidential Administration',

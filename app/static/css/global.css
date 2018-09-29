@@ -5,8 +5,7 @@
 @font-face {
     font-family: 'Roboto';
     font-weight: 300;
-    src: local('Roboto Light'), local('Roboto-Light');
-    src: url(/static/font/roboto.woff2) format('woff2');
+    src: local('Roboto Light'), local('Roboto-Light'), url(https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fBBc4.woff2) format('woff2');
 }
 * {
     box-sizing: border-box;

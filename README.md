@@ -1,9 +1,9 @@
 ![Logo](app/static/img/favicon.png)
 # Opinr
 
-This app is designed to give easy access to conflicting opinions on various political issues.
+This app is designed to give easy access to conflicting opinions on various political issues. I used this app to win the US Congressional App Challenge in 2018.
 
-I used this app to win the US Congressional App Challenge in 2018.
+[Opinr online](http://opinr.me)
 
 [My video submission to the Challenge](https://www.youtube.com/watch?v=3kV-FuZXJEY)
 
